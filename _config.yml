@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+gems: [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ethan Rogers
+tagline:          'Fullstack Developer'
+description:      'Skilled web developer. Lover of new languages. Teacher.'
+url:              http://erogers6264.github.io
+baseurl:          /
+
+author:
+  name:           'Ethan Rogers'
+  url:            https://github.com/erogers6264
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/erogers6264/konto
