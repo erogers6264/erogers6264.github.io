@@ -4,7 +4,11 @@ title: About Me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello there! Thanks for visiting my blog. I am a 27-year-old fullstack developer
+  with zero years work experience, but six years hobby experience. I first started
+  programming in the seventh grade, but the wheels really started roaring when
+  I took a computational linguistics class in college. I failed the class, but
+  I still loved to program. I eventually learned to love failure ;-)
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
