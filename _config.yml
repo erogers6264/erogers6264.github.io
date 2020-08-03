@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My name is Ethan, and I am an aspiring software engineer. I am also an artist.
   When I need a break from programming, I paint. And when I need a break from
   painting, I program. I have helped 2 companies in the past cleaning their
-  data and creating utitlity scripts to save designers time. I have painted numerous
+  data and creating utitlity scripts to save designers' time. I have painted numerous
   portraits of my coworkers' pets using oil paints.
 
 baseurl: "" # the subpath of your site, e.g. /blog
